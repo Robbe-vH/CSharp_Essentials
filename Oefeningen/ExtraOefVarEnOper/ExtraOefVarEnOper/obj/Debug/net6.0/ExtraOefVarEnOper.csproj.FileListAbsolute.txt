@@ -1,0 +1,15 @@
+C:\Users\robbe\source\repos\CSharp_Essentials\Oefeningen\ExtraOefVarEnOper\ExtraOefVarEnOper\bin\Debug\net6.0\ExtraOefVarEnOper.exe
+C:\Users\robbe\source\repos\CSharp_Essentials\Oefeningen\ExtraOefVarEnOper\ExtraOefVarEnOper\bin\Debug\net6.0\ExtraOefVarEnOper.deps.json
+C:\Users\robbe\source\repos\CSharp_Essentials\Oefeningen\ExtraOefVarEnOper\ExtraOefVarEnOper\bin\Debug\net6.0\ExtraOefVarEnOper.runtimeconfig.json
+C:\Users\robbe\source\repos\CSharp_Essentials\Oefeningen\ExtraOefVarEnOper\ExtraOefVarEnOper\bin\Debug\net6.0\ExtraOefVarEnOper.dll
+C:\Users\robbe\source\repos\CSharp_Essentials\Oefeningen\ExtraOefVarEnOper\ExtraOefVarEnOper\bin\Debug\net6.0\ExtraOefVarEnOper.pdb
+C:\Users\robbe\source\repos\CSharp_Essentials\Oefeningen\ExtraOefVarEnOper\ExtraOefVarEnOper\obj\Debug\net6.0\ExtraOefVarEnOper.csproj.AssemblyReference.cache
+C:\Users\robbe\source\repos\CSharp_Essentials\Oefeningen\ExtraOefVarEnOper\ExtraOefVarEnOper\obj\Debug\net6.0\ExtraOefVarEnOper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robbe\source\repos\CSharp_Essentials\Oefeningen\ExtraOefVarEnOper\ExtraOefVarEnOper\obj\Debug\net6.0\ExtraOefVarEnOper.AssemblyInfoInputs.cache
+C:\Users\robbe\source\repos\CSharp_Essentials\Oefeningen\ExtraOefVarEnOper\ExtraOefVarEnOper\obj\Debug\net6.0\ExtraOefVarEnOper.AssemblyInfo.cs
+C:\Users\robbe\source\repos\CSharp_Essentials\Oefeningen\ExtraOefVarEnOper\ExtraOefVarEnOper\obj\Debug\net6.0\ExtraOefVarEnOper.csproj.CoreCompileInputs.cache
+C:\Users\robbe\source\repos\CSharp_Essentials\Oefeningen\ExtraOefVarEnOper\ExtraOefVarEnOper\obj\Debug\net6.0\ExtraOefVarEnOper.dll
+C:\Users\robbe\source\repos\CSharp_Essentials\Oefeningen\ExtraOefVarEnOper\ExtraOefVarEnOper\obj\Debug\net6.0\refint\ExtraOefVarEnOper.dll
+C:\Users\robbe\source\repos\CSharp_Essentials\Oefeningen\ExtraOefVarEnOper\ExtraOefVarEnOper\obj\Debug\net6.0\ExtraOefVarEnOper.pdb
+C:\Users\robbe\source\repos\CSharp_Essentials\Oefeningen\ExtraOefVarEnOper\ExtraOefVarEnOper\obj\Debug\net6.0\ExtraOefVarEnOper.genruntimeconfig.cache
+C:\Users\robbe\source\repos\CSharp_Essentials\Oefeningen\ExtraOefVarEnOper\ExtraOefVarEnOper\obj\Debug\net6.0\ref\ExtraOefVarEnOper.dll
