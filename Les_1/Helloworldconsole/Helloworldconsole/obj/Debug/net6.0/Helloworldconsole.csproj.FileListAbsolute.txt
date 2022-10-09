@@ -1,0 +1,15 @@
+C:\Users\robbe\source\repos\Helloworldconsole\Helloworldconsole\bin\Debug\net6.0\Helloworldconsole.exe
+C:\Users\robbe\source\repos\Helloworldconsole\Helloworldconsole\bin\Debug\net6.0\Helloworldconsole.deps.json
+C:\Users\robbe\source\repos\Helloworldconsole\Helloworldconsole\bin\Debug\net6.0\Helloworldconsole.runtimeconfig.json
+C:\Users\robbe\source\repos\Helloworldconsole\Helloworldconsole\bin\Debug\net6.0\Helloworldconsole.dll
+C:\Users\robbe\source\repos\Helloworldconsole\Helloworldconsole\bin\Debug\net6.0\Helloworldconsole.pdb
+C:\Users\robbe\source\repos\Helloworldconsole\Helloworldconsole\obj\Debug\net6.0\Helloworldconsole.csproj.AssemblyReference.cache
+C:\Users\robbe\source\repos\Helloworldconsole\Helloworldconsole\obj\Debug\net6.0\Helloworldconsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robbe\source\repos\Helloworldconsole\Helloworldconsole\obj\Debug\net6.0\Helloworldconsole.AssemblyInfoInputs.cache
+C:\Users\robbe\source\repos\Helloworldconsole\Helloworldconsole\obj\Debug\net6.0\Helloworldconsole.AssemblyInfo.cs
+C:\Users\robbe\source\repos\Helloworldconsole\Helloworldconsole\obj\Debug\net6.0\Helloworldconsole.csproj.CoreCompileInputs.cache
+C:\Users\robbe\source\repos\Helloworldconsole\Helloworldconsole\obj\Debug\net6.0\Helloworldconsole.dll
+C:\Users\robbe\source\repos\Helloworldconsole\Helloworldconsole\obj\Debug\net6.0\refint\Helloworldconsole.dll
+C:\Users\robbe\source\repos\Helloworldconsole\Helloworldconsole\obj\Debug\net6.0\Helloworldconsole.pdb
+C:\Users\robbe\source\repos\Helloworldconsole\Helloworldconsole\obj\Debug\net6.0\Helloworldconsole.genruntimeconfig.cache
+C:\Users\robbe\source\repos\Helloworldconsole\Helloworldconsole\obj\Debug\net6.0\ref\Helloworldconsole.dll

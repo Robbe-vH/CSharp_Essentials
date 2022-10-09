@@ -1,0 +1,31 @@
+﻿<Window x:Class="Oef7_Reiskost.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Oef7_Reiskost"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="400" Width="650" Loaded="Window_Loaded">
+    <Grid>
+        <Label Content="Bestemming" HorizontalAlignment="Left" Margin="75,28,0,0" VerticalAlignment="Top"/>
+        <Label Content="Basisvlucht" HorizontalAlignment="Left" Margin="83,59,0,0" VerticalAlignment="Top"/>
+        <Label Content="Vluchtklassse (1,2,3)" HorizontalAlignment="Left" Margin="36,90,0,0" VerticalAlignment="Top"/>
+        <Label Content="Basisprijs per dag" HorizontalAlignment="Left" Margin="50,121,0,0" VerticalAlignment="Top"/>
+        <Label Content="Aantal Dagen" HorizontalAlignment="Left" Margin="69,152,0,0" VerticalAlignment="Top"/>
+        <Label Content="Aantal Personen" HorizontalAlignment="Left" Margin="56,183,0,0" VerticalAlignment="Top"/>
+        <Label Content="Kortingspercentage" HorizontalAlignment="Left" Margin="38,214,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="TxtBestemming" HorizontalAlignment="Left" Margin="192,32,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="TxtBasisvluchtprijs" HorizontalAlignment="Left" Margin="192,63,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="TxtVluchtklassse" HorizontalAlignment="Left" Margin="192,94,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" GotFocus="TxtVluchtklassse_GotFocus" LostFocus="TxtVluchtklassse_LostFocus"/>
+        <TextBox x:Name="TxtBasisDagprijs" HorizontalAlignment="Left" Margin="192,123,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="TxtAantalDagen" HorizontalAlignment="Left" Margin="192,156,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="TxtAantalPersonen" HorizontalAlignment="Left" Margin="192,187,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="TxtKortingspercentage" HorizontalAlignment="Left" Margin="192,218,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="TxtResultaat" IsReadOnly="True" HorizontalAlignment="Left" Height="92" Margin="38,245,0,0" TextWrapping="Wrap" Text="Resultaat" VerticalAlignment="Top" Width="399" Background="#fbbb"/>
+        <Button x:Name="BtnBereken" Content="Bereken" HorizontalAlignment="Left" Margin="352,32,0,0" VerticalAlignment="Top" Height="49" Width="85" Click="BtnBereken_Click"/>
+        <Button x:Name="BtnWis" Content="Wissen" HorizontalAlignment="Left" Margin="352,94,0,0" VerticalAlignment="Top" Height="47" Width="85" Click="BtnWis_Click"/>
+        <Button x:Name="BtnClose" Content="Afsluiten" HorizontalAlignment="Left" Margin="352,156,0,0" VerticalAlignment="Top" Height="47" Width="85" Click="BtnClose_Click"/>
+        <TextBox x:Name="TxtVluchtInfo" IsReadOnly="True" HorizontalAlignment="Left" Height="92" Margin="474,32,0,0" TextWrapping="Wrap" Text="1 = Businessclass&#xD;&#xA;2 = Standaard vlucht&#xD;&#xA;3 = Charter" VerticalAlignment="Top" Width="120" Background="#fbbb"/>
+
+    </Grid>
+</Window>

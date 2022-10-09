@@ -1,0 +1,22 @@
+﻿<Window x:Class="Oef8_weddeberekening2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Oef8_weddeberekening2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Personeelslid: " HorizontalAlignment="Left" Margin="118,97,0,0" VerticalAlignment="Top"/>
+        <Label Content="Uurloon:" HorizontalAlignment="Left" Margin="118,128,0,0" VerticalAlignment="Top"/>
+        <Label Content="Aantal uren" HorizontalAlignment="Left" Margin="118,159,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="TxtNaam" HorizontalAlignment="Left" Margin="332,97,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="TxtUurloon" HorizontalAlignment="Left" Margin="332,136,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="TxtAantalUren" HorizontalAlignment="Left" Margin="332,172,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="BtnBereken" Content="Bereken" HorizontalAlignment="Left" Margin="118,217,0,0" VerticalAlignment="Top" Height="49" Width="88" Click="BtnBereken_Click"/>
+        <TextBox x:Name="TxtResultaat" IsReadOnly="True" HorizontalAlignment="Left" Margin="502,97,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="151" Height="93"/>
+        <Button x:Name="BtnWis" Content="Wissen" HorizontalAlignment="Left" Margin="231,217,0,0" VerticalAlignment="Top" Height="49" Width="88" Click="BtnWis_Click"/>
+        <Button x:Name="BtnClose" Content="Afsluiten" HorizontalAlignment="Left" Margin="332,217,0,0" VerticalAlignment="Top" Height="49" Width="88" Click="BtnClose_Click"/>
+
+    </Grid>
+</Window>

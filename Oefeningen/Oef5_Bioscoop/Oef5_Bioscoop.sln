@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oef5_Bioscoop", "Oef5_Bioscoop\Oef5_Bioscoop.csproj", "{186366DA-F219-47F8-AF11-118C935100F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{186366DA-F219-47F8-AF11-118C935100F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{186366DA-F219-47F8-AF11-118C935100F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{186366DA-F219-47F8-AF11-118C935100F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{186366DA-F219-47F8-AF11-118C935100F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E04176F-9FE7-4C87-9CFC-896909D659D5}
+	EndGlobalSection
+EndGlobal
