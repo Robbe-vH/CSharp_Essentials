@@ -1,0 +1,15 @@
+C:\Users\robbe\source\repos\CSharp_Essentials\Les_2\VariabelenEnOperatoren\VariabelenEnOperatoren\bin\Debug\net6.0\VariabelenEnOperatoren.exe
+C:\Users\robbe\source\repos\CSharp_Essentials\Les_2\VariabelenEnOperatoren\VariabelenEnOperatoren\bin\Debug\net6.0\VariabelenEnOperatoren.deps.json
+C:\Users\robbe\source\repos\CSharp_Essentials\Les_2\VariabelenEnOperatoren\VariabelenEnOperatoren\bin\Debug\net6.0\VariabelenEnOperatoren.runtimeconfig.json
+C:\Users\robbe\source\repos\CSharp_Essentials\Les_2\VariabelenEnOperatoren\VariabelenEnOperatoren\bin\Debug\net6.0\VariabelenEnOperatoren.dll
+C:\Users\robbe\source\repos\CSharp_Essentials\Les_2\VariabelenEnOperatoren\VariabelenEnOperatoren\bin\Debug\net6.0\VariabelenEnOperatoren.pdb
+C:\Users\robbe\source\repos\CSharp_Essentials\Les_2\VariabelenEnOperatoren\VariabelenEnOperatoren\obj\Debug\net6.0\VariabelenEnOperatoren.csproj.AssemblyReference.cache
+C:\Users\robbe\source\repos\CSharp_Essentials\Les_2\VariabelenEnOperatoren\VariabelenEnOperatoren\obj\Debug\net6.0\VariabelenEnOperatoren.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robbe\source\repos\CSharp_Essentials\Les_2\VariabelenEnOperatoren\VariabelenEnOperatoren\obj\Debug\net6.0\VariabelenEnOperatoren.AssemblyInfoInputs.cache
+C:\Users\robbe\source\repos\CSharp_Essentials\Les_2\VariabelenEnOperatoren\VariabelenEnOperatoren\obj\Debug\net6.0\VariabelenEnOperatoren.AssemblyInfo.cs
+C:\Users\robbe\source\repos\CSharp_Essentials\Les_2\VariabelenEnOperatoren\VariabelenEnOperatoren\obj\Debug\net6.0\VariabelenEnOperatoren.csproj.CoreCompileInputs.cache
+C:\Users\robbe\source\repos\CSharp_Essentials\Les_2\VariabelenEnOperatoren\VariabelenEnOperatoren\obj\Debug\net6.0\VariabelenEnOperatoren.dll
+C:\Users\robbe\source\repos\CSharp_Essentials\Les_2\VariabelenEnOperatoren\VariabelenEnOperatoren\obj\Debug\net6.0\refint\VariabelenEnOperatoren.dll
+C:\Users\robbe\source\repos\CSharp_Essentials\Les_2\VariabelenEnOperatoren\VariabelenEnOperatoren\obj\Debug\net6.0\VariabelenEnOperatoren.pdb
+C:\Users\robbe\source\repos\CSharp_Essentials\Les_2\VariabelenEnOperatoren\VariabelenEnOperatoren\obj\Debug\net6.0\VariabelenEnOperatoren.genruntimeconfig.cache
+C:\Users\robbe\source\repos\CSharp_Essentials\Les_2\VariabelenEnOperatoren\VariabelenEnOperatoren\obj\Debug\net6.0\ref\VariabelenEnOperatoren.dll

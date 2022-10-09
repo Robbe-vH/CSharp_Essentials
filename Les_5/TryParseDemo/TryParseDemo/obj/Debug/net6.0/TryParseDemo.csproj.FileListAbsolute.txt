@@ -1,0 +1,15 @@
+C:\Users\robbe\source\repos\CSharp_Essentials\Les_5\TryParseDemo\TryParseDemo\bin\Debug\net6.0\TryParseDemo.exe
+C:\Users\robbe\source\repos\CSharp_Essentials\Les_5\TryParseDemo\TryParseDemo\bin\Debug\net6.0\TryParseDemo.deps.json
+C:\Users\robbe\source\repos\CSharp_Essentials\Les_5\TryParseDemo\TryParseDemo\bin\Debug\net6.0\TryParseDemo.runtimeconfig.json
+C:\Users\robbe\source\repos\CSharp_Essentials\Les_5\TryParseDemo\TryParseDemo\bin\Debug\net6.0\TryParseDemo.dll
+C:\Users\robbe\source\repos\CSharp_Essentials\Les_5\TryParseDemo\TryParseDemo\bin\Debug\net6.0\TryParseDemo.pdb
+C:\Users\robbe\source\repos\CSharp_Essentials\Les_5\TryParseDemo\TryParseDemo\obj\Debug\net6.0\TryParseDemo.csproj.AssemblyReference.cache
+C:\Users\robbe\source\repos\CSharp_Essentials\Les_5\TryParseDemo\TryParseDemo\obj\Debug\net6.0\TryParseDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robbe\source\repos\CSharp_Essentials\Les_5\TryParseDemo\TryParseDemo\obj\Debug\net6.0\TryParseDemo.AssemblyInfoInputs.cache
+C:\Users\robbe\source\repos\CSharp_Essentials\Les_5\TryParseDemo\TryParseDemo\obj\Debug\net6.0\TryParseDemo.AssemblyInfo.cs
+C:\Users\robbe\source\repos\CSharp_Essentials\Les_5\TryParseDemo\TryParseDemo\obj\Debug\net6.0\TryParseDemo.csproj.CoreCompileInputs.cache
+C:\Users\robbe\source\repos\CSharp_Essentials\Les_5\TryParseDemo\TryParseDemo\obj\Debug\net6.0\TryParseDemo.dll
+C:\Users\robbe\source\repos\CSharp_Essentials\Les_5\TryParseDemo\TryParseDemo\obj\Debug\net6.0\refint\TryParseDemo.dll
+C:\Users\robbe\source\repos\CSharp_Essentials\Les_5\TryParseDemo\TryParseDemo\obj\Debug\net6.0\TryParseDemo.pdb
+C:\Users\robbe\source\repos\CSharp_Essentials\Les_5\TryParseDemo\TryParseDemo\obj\Debug\net6.0\TryParseDemo.genruntimeconfig.cache
+C:\Users\robbe\source\repos\CSharp_Essentials\Les_5\TryParseDemo\TryParseDemo\obj\Debug\net6.0\ref\TryParseDemo.dll

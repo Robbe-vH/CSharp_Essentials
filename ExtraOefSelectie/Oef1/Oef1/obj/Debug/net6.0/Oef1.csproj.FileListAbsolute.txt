@@ -1,0 +1,15 @@
+C:\Users\robbe\source\repos\CSharp_Essentials\Oefeningen\ExtraOefSelectie\Oef1\Oef1\bin\Debug\net6.0\Oef1.exe
+C:\Users\robbe\source\repos\CSharp_Essentials\Oefeningen\ExtraOefSelectie\Oef1\Oef1\bin\Debug\net6.0\Oef1.deps.json
+C:\Users\robbe\source\repos\CSharp_Essentials\Oefeningen\ExtraOefSelectie\Oef1\Oef1\bin\Debug\net6.0\Oef1.runtimeconfig.json
+C:\Users\robbe\source\repos\CSharp_Essentials\Oefeningen\ExtraOefSelectie\Oef1\Oef1\bin\Debug\net6.0\Oef1.dll
+C:\Users\robbe\source\repos\CSharp_Essentials\Oefeningen\ExtraOefSelectie\Oef1\Oef1\bin\Debug\net6.0\Oef1.pdb
+C:\Users\robbe\source\repos\CSharp_Essentials\Oefeningen\ExtraOefSelectie\Oef1\Oef1\obj\Debug\net6.0\Oef1.csproj.AssemblyReference.cache
+C:\Users\robbe\source\repos\CSharp_Essentials\Oefeningen\ExtraOefSelectie\Oef1\Oef1\obj\Debug\net6.0\Oef1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robbe\source\repos\CSharp_Essentials\Oefeningen\ExtraOefSelectie\Oef1\Oef1\obj\Debug\net6.0\Oef1.AssemblyInfoInputs.cache
+C:\Users\robbe\source\repos\CSharp_Essentials\Oefeningen\ExtraOefSelectie\Oef1\Oef1\obj\Debug\net6.0\Oef1.AssemblyInfo.cs
+C:\Users\robbe\source\repos\CSharp_Essentials\Oefeningen\ExtraOefSelectie\Oef1\Oef1\obj\Debug\net6.0\Oef1.csproj.CoreCompileInputs.cache
+C:\Users\robbe\source\repos\CSharp_Essentials\Oefeningen\ExtraOefSelectie\Oef1\Oef1\obj\Debug\net6.0\Oef1.dll
+C:\Users\robbe\source\repos\CSharp_Essentials\Oefeningen\ExtraOefSelectie\Oef1\Oef1\obj\Debug\net6.0\refint\Oef1.dll
+C:\Users\robbe\source\repos\CSharp_Essentials\Oefeningen\ExtraOefSelectie\Oef1\Oef1\obj\Debug\net6.0\Oef1.pdb
+C:\Users\robbe\source\repos\CSharp_Essentials\Oefeningen\ExtraOefSelectie\Oef1\Oef1\obj\Debug\net6.0\Oef1.genruntimeconfig.cache
+C:\Users\robbe\source\repos\CSharp_Essentials\Oefeningen\ExtraOefSelectie\Oef1\Oef1\obj\Debug\net6.0\ref\Oef1.dll
