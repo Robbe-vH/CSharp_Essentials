@@ -1,0 +1,15 @@
+C:\Users\robbe\Source\Repos\CSharp_Essentials\Oefeningen_iteratie_1\Oefeningen_iteratie_1\bin\Debug\net6.0\Oefeningen_iteratie_1.exe
+C:\Users\robbe\Source\Repos\CSharp_Essentials\Oefeningen_iteratie_1\Oefeningen_iteratie_1\bin\Debug\net6.0\Oefeningen_iteratie_1.deps.json
+C:\Users\robbe\Source\Repos\CSharp_Essentials\Oefeningen_iteratie_1\Oefeningen_iteratie_1\bin\Debug\net6.0\Oefeningen_iteratie_1.runtimeconfig.json
+C:\Users\robbe\Source\Repos\CSharp_Essentials\Oefeningen_iteratie_1\Oefeningen_iteratie_1\bin\Debug\net6.0\Oefeningen_iteratie_1.dll
+C:\Users\robbe\Source\Repos\CSharp_Essentials\Oefeningen_iteratie_1\Oefeningen_iteratie_1\bin\Debug\net6.0\Oefeningen_iteratie_1.pdb
+C:\Users\robbe\Source\Repos\CSharp_Essentials\Oefeningen_iteratie_1\Oefeningen_iteratie_1\obj\Debug\net6.0\Oefeningen_iteratie_1.csproj.AssemblyReference.cache
+C:\Users\robbe\Source\Repos\CSharp_Essentials\Oefeningen_iteratie_1\Oefeningen_iteratie_1\obj\Debug\net6.0\Oefeningen_iteratie_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robbe\Source\Repos\CSharp_Essentials\Oefeningen_iteratie_1\Oefeningen_iteratie_1\obj\Debug\net6.0\Oefeningen_iteratie_1.AssemblyInfoInputs.cache
+C:\Users\robbe\Source\Repos\CSharp_Essentials\Oefeningen_iteratie_1\Oefeningen_iteratie_1\obj\Debug\net6.0\Oefeningen_iteratie_1.AssemblyInfo.cs
+C:\Users\robbe\Source\Repos\CSharp_Essentials\Oefeningen_iteratie_1\Oefeningen_iteratie_1\obj\Debug\net6.0\Oefeningen_iteratie_1.csproj.CoreCompileInputs.cache
+C:\Users\robbe\Source\Repos\CSharp_Essentials\Oefeningen_iteratie_1\Oefeningen_iteratie_1\obj\Debug\net6.0\Oefeningen_iteratie_1.dll
+C:\Users\robbe\Source\Repos\CSharp_Essentials\Oefeningen_iteratie_1\Oefeningen_iteratie_1\obj\Debug\net6.0\refint\Oefeningen_iteratie_1.dll
+C:\Users\robbe\Source\Repos\CSharp_Essentials\Oefeningen_iteratie_1\Oefeningen_iteratie_1\obj\Debug\net6.0\Oefeningen_iteratie_1.pdb
+C:\Users\robbe\Source\Repos\CSharp_Essentials\Oefeningen_iteratie_1\Oefeningen_iteratie_1\obj\Debug\net6.0\Oefeningen_iteratie_1.genruntimeconfig.cache
+C:\Users\robbe\Source\Repos\CSharp_Essentials\Oefeningen_iteratie_1\Oefeningen_iteratie_1\obj\Debug\net6.0\ref\Oefeningen_iteratie_1.dll

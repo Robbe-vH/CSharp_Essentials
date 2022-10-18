@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\robbe\\source\\repos\\CSharp_Essentials\\Oefeningen\\ExtraOefVarEnOper\\ExtraOefVarEnOper\\ExtraOefVarEnOper.csproj",
+      "projectUniqueName": "C:\\Users\\robbe\\Source\\Repos\\CSharp_Essentials\\ExtraOefVarEnOper\\ExtraOefVarEnOper\\ExtraOefVarEnOper.csproj",
       "projectName": "ExtraOefVarEnOper",
-      "projectPath": "C:\\Users\\robbe\\source\\repos\\CSharp_Essentials\\Oefeningen\\ExtraOefVarEnOper\\ExtraOefVarEnOper\\ExtraOefVarEnOper.csproj",
+      "projectPath": "C:\\Users\\robbe\\Source\\Repos\\CSharp_Essentials\\ExtraOefVarEnOper\\ExtraOefVarEnOper\\ExtraOefVarEnOper.csproj",
       "packagesPath": "C:\\Users\\robbe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\robbe\\source\\repos\\CSharp_Essentials\\Oefeningen\\ExtraOefVarEnOper\\ExtraOefVarEnOper\\obj\\",
+      "outputPath": "C:\\Users\\robbe\\Source\\Repos\\CSharp_Essentials\\ExtraOefVarEnOper\\ExtraOefVarEnOper\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\robbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefeningen_iteratie_1", "Oefeningen_iteratie_1\Oefeningen_iteratie_1.csproj", "{F9BFF9E4-25A4-4B89-B855-082BC1C49220}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9BFF9E4-25A4-4B89-B855-082BC1C49220}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9BFF9E4-25A4-4B89-B855-082BC1C49220}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9BFF9E4-25A4-4B89-B855-082BC1C49220}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9BFF9E4-25A4-4B89-B855-082BC1C49220}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09E837B4-D041-4246-B386-BD1928230FAD}
+	EndGlobalSection
+EndGlobal
