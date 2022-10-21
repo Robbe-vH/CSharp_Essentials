@@ -33,5 +33,9 @@ namespace les21_10
             }
         }
 
+        private void BtnLoguit_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
