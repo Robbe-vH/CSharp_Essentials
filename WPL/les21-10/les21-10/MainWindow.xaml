@@ -7,6 +7,22 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
 
+        <TextBlock Margin="10">Naam</TextBlock>
+        <TextBlock Margin="10" Grid.Row="1">Wachtwoord</TextBlock>
+
+        <TextBox Margin="10" Grid.Column="1" Name="TxtNaam"></TextBox>
+        <TextBox Margin="10" Grid.Column="1" Grid.Row="1" Name="TxtWachtwoord"></TextBox>
+        
     </Grid>
 </Window>
