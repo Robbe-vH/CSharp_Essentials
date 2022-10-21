@@ -27,12 +27,11 @@ namespace les21_10
 
         private void BtnLogin_Click(object sender, RoutedEventArgs e)
         {
-
+            if (TxtNaam.Text.Equals("admin") && TxtWachtwoord.Text.Equals("admin"))
+            {
+                TxtResult.Text = "U wordt ingelogd";
+            }
         }
 
-        private void BtnLogin_Click_1(object sender, RoutedEventArgs e)
-        {
-
-        }
     }
 }
