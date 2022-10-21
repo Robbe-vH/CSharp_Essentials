@@ -24,5 +24,15 @@ namespace les21_10
         {
             InitializeComponent();
         }
+
+        private void BtnLogin_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void BtnLogin_Click_1(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
