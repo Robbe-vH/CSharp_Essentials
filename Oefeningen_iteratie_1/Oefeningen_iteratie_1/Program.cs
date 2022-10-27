@@ -15,7 +15,26 @@ do
     Console.WriteLine("Wilt u nog eens?(Y/N)");
     antwoord = Console.ReadLine();
 } while (antwoord.ToUpper().Equals("Y"));
+
 */
+// oefening 8
+Console.WriteLine("Geef een getal: ");
+int teCheckenGetal = Convert.ToInt32(Console.ReadLine());
+int aantaldeelnummers = 0;
+
+for (int i = 2; i <= teCheckenGetal; i++)
+{
+    if (teCheckenGetal%i == 0)
+    {
+        aantaldeelnummers++;
+    }
+}
+if (aantaldeelnummers == 1)
+{
+    Console.WriteLine($"{teCheckenGetal} is een priemgetal.");
+}
+
+/*
 // oefening 10
 Console.WriteLine("Aantal rijen hoog?");
 int aantalRijen = Convert.ToInt32(Console.ReadLine()); 
@@ -26,4 +45,4 @@ for (int i = 0; i < aantalRijen; i++)
         Console.Write("x");
     }
     Console.WriteLine();
-}
+}*/

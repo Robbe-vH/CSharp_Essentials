@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\robbe\\Source\\Repos\\CSharp_Essentials\\Oefeningen_iteratie_1\\Oefeningen_iteratie_1\\Oefeningen_iteratie_1.csproj": {}
+    "C:\\Users\\robbe\\source\\repos\\CSharp_Essentials\\Oefeningen_iteratie_1\\Oefeningen_iteratie_1\\Oefeningen_iteratie_1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\robbe\\Source\\Repos\\CSharp_Essentials\\Oefeningen_iteratie_1\\Oefeningen_iteratie_1\\Oefeningen_iteratie_1.csproj": {
+    "C:\\Users\\robbe\\source\\repos\\CSharp_Essentials\\Oefeningen_iteratie_1\\Oefeningen_iteratie_1\\Oefeningen_iteratie_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\robbe\\Source\\Repos\\CSharp_Essentials\\Oefeningen_iteratie_1\\Oefeningen_iteratie_1\\Oefeningen_iteratie_1.csproj",
+        "projectUniqueName": "C:\\Users\\robbe\\source\\repos\\CSharp_Essentials\\Oefeningen_iteratie_1\\Oefeningen_iteratie_1\\Oefeningen_iteratie_1.csproj",
         "projectName": "Oefeningen_iteratie_1",
-        "projectPath": "C:\\Users\\robbe\\Source\\Repos\\CSharp_Essentials\\Oefeningen_iteratie_1\\Oefeningen_iteratie_1\\Oefeningen_iteratie_1.csproj",
+        "projectPath": "C:\\Users\\robbe\\source\\repos\\CSharp_Essentials\\Oefeningen_iteratie_1\\Oefeningen_iteratie_1\\Oefeningen_iteratie_1.csproj",
         "packagesPath": "C:\\Users\\robbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\robbe\\Source\\Repos\\CSharp_Essentials\\Oefeningen_iteratie_1\\Oefeningen_iteratie_1\\obj\\",
+        "outputPath": "C:\\Users\\robbe\\source\\repos\\CSharp_Essentials\\Oefeningen_iteratie_1\\Oefeningen_iteratie_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\robbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
