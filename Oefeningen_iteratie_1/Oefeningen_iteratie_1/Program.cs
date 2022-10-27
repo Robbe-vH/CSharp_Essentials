@@ -1,4 +1,62 @@
-﻿/*// oefening 6
+﻿/*//oefening 1
+Console.WriteLine("Geef een getal: ");
+int maxGetal = Convert.ToInt32(Console.ReadLine());
+
+for (int i = 0; i <= maxGetal; i++)
+{
+    for (int i = 0; i < maxGetal; i++)
+    {
+        Console.Write(i);
+    }
+}
+*/
+
+/*//oefening 2
+Console.WriteLine("Geef een getal: ");
+int maxGetal = Convert.ToInt32(Console.ReadLine());
+
+for (int i = 0; i <= maxGetal; i++)
+{
+    if (i%2 == 0)
+    {
+        Console.Write($"{i} ");
+    }
+}*/
+
+
+/*//oefening 3
+Console.WriteLine("Geef een getal: ");
+int maxGetal = Convert.ToInt32(Console.ReadLine());
+
+for (int i = 0; i <= maxGetal; i++)
+{
+    if (i%2 == 1)
+    {
+        Console.Write($"{i} ");
+    }
+}*/
+
+/*//oefening 4
+Console.WriteLine("Geef een getal: ");
+int facGetal = Convert.ToInt32(Console.ReadLine());
+int resultaat = 1;
+
+for (int i = 1; i <= facGetal; i++)
+{
+    resultaat *= i;
+    Console.WriteLine(resultaat);
+}*/
+
+/*// oefening 5
+Console.WriteLine("Geef een getal: ");
+int maxGetal = Convert.ToInt32(Console.ReadLine());
+
+for (int i = 1; i <= maxGetal; i++)
+{
+    Console.WriteLine($"het kwadraat van {i} is {Math.Pow(i, 2)}");
+}*/
+
+/*// oefening 6
 using System.Runtime.CompilerServices;
 
 string antwoord = "y";
@@ -69,4 +127,48 @@ for (int i = 0; i < aantalRijen; i++)
         Console.Write("x");
     }
     Console.WriteLine();
+}*/
+
+/*// oefening 11
+Console.WriteLine("Aantal rijen hoog?");
+int aantalRijen = Convert.ToInt32(Console.ReadLine());
+
+for (int i = 0; i < aantalRijen; i++)
+{
+    for (int j = 0; j <= i; j++)
+    {
+        Console.Write("x");
+    }
+    Console.WriteLine();
+}*/
+
+// oefening 12
+Console.WriteLine("Aantal rijen hoog?");
+int aantalRijen = Convert.ToInt32(Console.ReadLine());
+
+for (int i = 0; i < aantalRijen; i++)
+{
+    for (int k = 0; k < (aantalRijen - i)/2; k++)
+    {
+        Console.Write(" ");
+    }
+    for (int j = 0; j <= i; j++)
+    {
+        
+        Console.Write("x");
+        
+    }
+    for (int l = 0; l < (aantalRijen - i)/2; l++)
+    {
+        Console.Write(" ");
+    }
+    Console.WriteLine();
+}
+
+/*// oefening 14
+for (int i = 0; i < 101; i++)
+{
+    if (i%2 == 0 || i%5 == 0) {
+        Console.WriteLine(i);
+    }
 }*/
