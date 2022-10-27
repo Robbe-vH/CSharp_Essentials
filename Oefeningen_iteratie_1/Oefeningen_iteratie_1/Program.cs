@@ -15,9 +15,33 @@ do
     Console.WriteLine("Wilt u nog eens?(Y/N)");
     antwoord = Console.ReadLine();
 } while (antwoord.ToUpper().Equals("Y"));
-
 */
-// oefening 8
+
+/*//oefening 7
+int getalGebruiker = 1;
+Console.WriteLine("Geef een getal in, 0 om af te sluiten: ");
+getalGebruiker = Convert.ToInt32(Console.ReadLine());
+int grootsteGetal = getalGebruiker;
+int kleinsteGetal = getalGebruiker;
+do
+{
+    Console.WriteLine("Geef een getal in, 0 om af te sluiten: ");
+    getalGebruiker = Convert.ToInt32(Console.ReadLine());
+    if (getalGebruiker > grootsteGetal)
+    {
+        grootsteGetal = getalGebruiker;
+    }
+    if (getalGebruiker < kleinsteGetal && getalGebruiker != 0)
+    {
+        kleinsteGetal = getalGebruiker;
+    }
+
+} while (getalGebruiker != 0);
+Console.WriteLine($"Het grootste getal is: {grootsteGetal}");
+Console.WriteLine($"Het kleinste getal is: {kleinsteGetal}");
+*/
+
+/*// oefening 8
 Console.WriteLine("Geef een getal: ");
 int teCheckenGetal = Convert.ToInt32(Console.ReadLine());
 int aantaldeelnummers = 0;
@@ -32,7 +56,7 @@ for (int i = 2; i <= teCheckenGetal; i++)
 if (aantaldeelnummers == 1)
 {
     Console.WriteLine($"{teCheckenGetal} is een priemgetal.");
-}
+}*/
 
 /*
 // oefening 10
