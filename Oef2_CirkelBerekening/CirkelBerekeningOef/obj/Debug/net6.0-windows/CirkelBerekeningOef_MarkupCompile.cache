@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\robbe\source\repos\CSharp_Essentials\Les_1\CirkelBerekeningOef\CirkelBerekeningOef\obj\Debug\net6.0-windows\
-CirkelBerekeningOef_4l3lpq3h_wpftmp
+C:\Users\robbe\Source\Repos\CSharp_Essentials\Oef2_CirkelBerekening\CirkelBerekeningOef\obj\Debug\net6.0-windows\
+CirkelBerekeningOef
 none
 false
-TRACE;RELEASE;NET;NET6_0;NETCOREAPP
-C:\Users\robbe\source\repos\CSharp_Essentials\Les_1\CirkelBerekeningOef\CirkelBerekeningOef\App.xaml
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+C:\Users\robbe\Source\Repos\CSharp_Essentials\Oef2_CirkelBerekening\CirkelBerekeningOef\App.xaml
 11407045341
 
-51308105279
-3882087237404
+3-1233169557
+194618410957
 MainWindow.xaml;
 
-False
+True
 

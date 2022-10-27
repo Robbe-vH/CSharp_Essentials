@@ -1,0 +1,5 @@
+C:\Users\robbe\Source\Repos\CSharp_Essentials\Les_6\FunctieDemoConsole\FunctieDemoConsole\obj\Debug\net6.0\FunctieDemoConsole.csproj.AssemblyReference.cache
+C:\Users\robbe\Source\Repos\CSharp_Essentials\Les_6\FunctieDemoConsole\FunctieDemoConsole\obj\Debug\net6.0\FunctieDemoConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robbe\Source\Repos\CSharp_Essentials\Les_6\FunctieDemoConsole\FunctieDemoConsole\obj\Debug\net6.0\FunctieDemoConsole.AssemblyInfoInputs.cache
+C:\Users\robbe\Source\Repos\CSharp_Essentials\Les_6\FunctieDemoConsole\FunctieDemoConsole\obj\Debug\net6.0\FunctieDemoConsole.AssemblyInfo.cs
+C:\Users\robbe\Source\Repos\CSharp_Essentials\Les_6\FunctieDemoConsole\FunctieDemoConsole\obj\Debug\net6.0\FunctieDemoConsole.csproj.CoreCompileInputs.cache
