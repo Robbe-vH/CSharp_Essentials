@@ -114,4 +114,9 @@ static bool IsVoldoendeBudget(double totaalkost, double budgetVanKlant, out stri
         return false;
     }
 }
-string antwoord = IsVoldoendeBudget(300, 300);
+Console.WriteLine(IsVoldoendeBudget(300, 200, out string antwoord));
+Console.WriteLine(antwoord);
+
+
+// oefening 9
+
