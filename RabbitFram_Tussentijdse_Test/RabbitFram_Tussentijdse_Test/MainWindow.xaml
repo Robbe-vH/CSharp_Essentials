@@ -1,0 +1,51 @@
+﻿<Window x:Class="RabbitFram_Tussentijdse_Test.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RabbitFram_Tussentijdse_Test"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Background="LightGreen" Loaded="Window_Loaded">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition>
+            </RowDefinition>
+            <RowDefinition>
+            </RowDefinition>
+            <RowDefinition>
+            </RowDefinition>
+            <RowDefinition>
+            </RowDefinition>
+            <RowDefinition>
+            </RowDefinition>
+            <RowDefinition>
+            </RowDefinition>
+            <RowDefinition>
+            </RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition>
+            </ColumnDefinition>
+            <ColumnDefinition>
+            </ColumnDefinition>
+            <ColumnDefinition>
+            </ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        
+        <TextBox x:Name="TxtHuizen" Grid.Column="1" HorizontalAlignment="Center" Width="240" Grid.Row="1" TextWrapping="Wrap" Text="0" VerticalAlignment="Center" Margin="10"/>
+        <TextBox x:Name="TxtVelden" Grid.Column="1" HorizontalAlignment="Center" Width="240" Grid.Row="2" TextWrapping="Wrap" Text="0" VerticalAlignment="Center" Margin="10"/>
+        <TextBox x:Name="TxtSprong" Grid.Column="1" HorizontalAlignment="Center" Width="240" Grid.Row="3" TextWrapping="Wrap" Text="0" VerticalAlignment="Center" Margin="10"/>
+        <TextBox x:Name="TxtMaanden" Grid.Column="1" HorizontalAlignment="Center" Width="240" Grid.Row="4" TextWrapping="Wrap" Text="0" VerticalAlignment="Center" Margin="10"/>
+        <TextBox x:Name="TxtResultaat" IsReadOnly="True" Grid.Column="1" HorizontalAlignment="Center" Width="510" Height="80" Grid.Row="5" Grid.RowSpan="2" Grid.ColumnSpan="2" TextWrapping="Wrap" Text="" VerticalAlignment="Center" Margin="10"/>
+        <Button x:Name="BtnBereken" Grid.Column="2" HorizontalAlignment="Center" Width="240" Height="20" Content="Bereken Capaciteit" Grid.Row="3" VerticalAlignment="Center" Margin="10" Click="BtnBereken_Click"/>
+        <Button x:Name="BtnSimulatie" Grid.Column="2" HorizontalAlignment="Center" Width="240" Height="20" Content="Simulatie" Grid.Row="4" VerticalAlignment="Center" Margin="10" Click="BtnSimulatie_Click"/>
+        <Button x:Name="BtnWissen" Grid.Column="0" HorizontalAlignment="Center" Width="240" Height="20" Content="Wissen" Grid.Row="5" VerticalAlignment="Center" Margin="10" Click="BtnWissen_Click"/>
+        <TextBlock Text="Rabbit Farm" HorizontalAlignment="Left" Margin="20 0" VerticalAlignment="Center" FontSize="20"/>
+        <TextBlock Text="Aantal boerderij huizen:" HorizontalAlignment="Center" Grid.Row="1" VerticalAlignment="Center"/>
+        <TextBlock Text="Aantal boerderij velden:" HorizontalAlignment="Center" Grid.Row="2" VerticalAlignment="Center"/>
+        <TextBlock Text="Grootte van sprong" HorizontalAlignment="Center" Grid.Row="3" VerticalAlignment="Center"/>
+        <TextBlock Text="Aantal maanden" HorizontalAlignment="Center" Grid.Row="4" VerticalAlignment="Center"/>
+
+    </Grid>
+    
+</Window>

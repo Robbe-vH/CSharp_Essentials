@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\robbe\\Source\\Repos\\CSharp_Essentials\\Oefeningen_Methodes_Console\\Oefeningen\\Oefeningen\\Oefeningen.csproj": {}
+    "C:\\Users\\robbe\\source\\repos\\CSharp_Essentials\\Oefeningen_Methodes_Console\\Oefeningen\\Oefeningen\\Oefeningen.csproj": {}
   },
   "projects": {
-    "C:\\Users\\robbe\\Source\\Repos\\CSharp_Essentials\\Oefeningen_Methodes_Console\\Oefeningen\\Oefeningen\\Oefeningen.csproj": {
+    "C:\\Users\\robbe\\source\\repos\\CSharp_Essentials\\Oefeningen_Methodes_Console\\Oefeningen\\Oefeningen\\Oefeningen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\robbe\\Source\\Repos\\CSharp_Essentials\\Oefeningen_Methodes_Console\\Oefeningen\\Oefeningen\\Oefeningen.csproj",
+        "projectUniqueName": "C:\\Users\\robbe\\source\\repos\\CSharp_Essentials\\Oefeningen_Methodes_Console\\Oefeningen\\Oefeningen\\Oefeningen.csproj",
         "projectName": "Oefeningen",
-        "projectPath": "C:\\Users\\robbe\\Source\\Repos\\CSharp_Essentials\\Oefeningen_Methodes_Console\\Oefeningen\\Oefeningen\\Oefeningen.csproj",
+        "projectPath": "C:\\Users\\robbe\\source\\repos\\CSharp_Essentials\\Oefeningen_Methodes_Console\\Oefeningen\\Oefeningen\\Oefeningen.csproj",
         "packagesPath": "C:\\Users\\robbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\robbe\\Source\\Repos\\CSharp_Essentials\\Oefeningen_Methodes_Console\\Oefeningen\\Oefeningen\\obj\\",
+        "outputPath": "C:\\Users\\robbe\\source\\repos\\CSharp_Essentials\\Oefeningen_Methodes_Console\\Oefeningen\\Oefeningen\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\robbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
