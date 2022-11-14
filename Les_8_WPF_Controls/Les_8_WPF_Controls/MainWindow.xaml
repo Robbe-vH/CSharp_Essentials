@@ -5,13 +5,58 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Les_8_WPF_Controls"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="200">
-    <StackPanel Margin="20">
+        Title="MainWindow" Height="400" Width="650">
+    <!-- <StackPanel Margin="20" Name="Paneel">
+        
         <TextBlock Margin="10">Yeeeeeeeeeeeeeeeeeeeee<LineBreak />eeeeeeeeeeeeeeeeeeeeeeee<LineBreak />eeeeeeeeeeeeeeeeeee<LineBreak />eeeeeeeet</TextBlock>
         <TextBlock Margin="10" FontSize="20" TextTrimming="CharacterEllipsis">Afgesneden Titel</TextBlock>
         <TextBlock Margin="10" TextWrapping="Wrap"><Bold>Dit is een veel te lange</Bold> <Italic>tekst om op een lijn </Italic> <Underline>te kunnen passen.</Underline></TextBlock>
 
-
         <TextBox x:Name="TxtInput" Margin="10" Height="100" AcceptsReturn="True"></TextBox>
+        -->
+        <!--Build action aanpassen
+        Properties aanpassen van IMG
+        Build action op resource
+        Copy to Output: always
+        -->
+        <!--
+        <Image Source="/assets/unnamed.jpg" Name="ImgVerandering" Height="100" Width="100"/>
+        <Button x:Name="BtnVeranderFoto" Content="Verander Foto" Margin="20" Click="BtnVeranderFoto_Click" ></Button>
+        -->
+        
+        <!--Checkbox-->
+    <!--
+        <CheckBox Margin="10" Name="CheckVIP">
+            Is Vip
+        </CheckBox>
+
+        <TextBlock Text="Geslacht"></TextBlock>
+        <RadioButton Name="RdbtnMan" Margin="5" GroupName="Geslacht">man</RadioButton>
+        <RadioButton Name="RdbtnVrouw" Margin="5" GroupName="Geslacht">Vrouw</RadioButton>
+        <RadioButton Name="RdbtnOnbekend" Margin="5" GroupName="Geslacht" IsChecked="True">Onbekend</RadioButton>
+
+        <TextBlock Text="Eten"></TextBlock>
+        <RadioButton GroupName="Eten" IsChecked="True">Vegetarisch</RadioButton>
+        <RadioButton GroupName="Eten">Pescitarier</RadioButton>
+        <RadioButton GroupName="Eten">Alles</RadioButton>
+        
+        <Button Margin="10" Name="BtnVerwerk" Click="BtnVerwerk_Click">Verwerk</Button>
     </StackPanel>
+  -->
+    
+    <DockPanel>
+        <Menu DockPanel.Dock="Top">
+            <MenuItem Header="Bestand"></MenuItem>
+            <MenuItem Header="Bewerken" IsCheckable="True" IsChecked="True"></MenuItem>
+            <MenuItem Header="Scherm">
+                <MenuItem Header="Fill" Name="MnItemFill" Click="MnItemFill_Click"></MenuItem>
+                <MenuItem Header="Stretch" Name="MnItemStretch" Click="MnItemStretch_Click"></MenuItem>
+                <MenuItem Header="Fit" Name="MnItemFit" Click="MnItemFit_Click"></MenuItem>
+            </MenuItem>
+            <MenuItem Header="Project" IsEnabled="False"></MenuItem>
+            <MenuItem Header="Afsluiten"></MenuItem>
+        </Menu>
+        <Image Source="/assets/cornflakes.jpeg" Name="ImgCornflakes"/>
+
+    </DockPanel>
 </Window>
