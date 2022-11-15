@@ -60,21 +60,41 @@ namespace Oefening_29_Rekenmachine2
         {
             HaalGetallen(TxtEersteGetal.Text, TxtTweedeGetal.Text);
             TxtResultaat.Text = Convert.ToString(Berekening('+'));
+
+            MnItOptellen.IsChecked = true;
+            MnItAftrekken.IsChecked = false;
+            MnItDelen.IsChecked = false;
+            MnItVermenigvuldigen.IsChecked = false;
         }
         private void BtnMaal_Click(object sender, RoutedEventArgs e)
         {
             HaalGetallen(TxtEersteGetal.Text, TxtTweedeGetal.Text);
             TxtResultaat.Text = Convert.ToString(Berekening('*'));
+
+            MnItOptellen.IsChecked = false;
+            MnItAftrekken.IsChecked = false;
+            MnItDelen.IsChecked = false;
+            MnItVermenigvuldigen.IsChecked = true;
         }
         private void BtnMin_Click(object sender, RoutedEventArgs e)
         {
             HaalGetallen(TxtEersteGetal.Text, TxtTweedeGetal.Text);
             TxtResultaat.Text = Convert.ToString(Berekening('-'));
+
+            MnItOptellen.IsChecked = false;
+            MnItAftrekken.IsChecked = true;
+            MnItDelen.IsChecked = false;
+            MnItVermenigvuldigen.IsChecked = false;
         }
         private void BtnDeel_Click(object sender, RoutedEventArgs e)
         {
             HaalGetallen(TxtEersteGetal.Text, TxtTweedeGetal.Text);
             TxtResultaat.Text = Convert.ToString(Berekening(':'));
+
+            MnItOptellen.IsChecked = false;
+            MnItAftrekken.IsChecked = false;
+            MnItDelen.IsChecked = true;
+            MnItVermenigvuldigen.IsChecked = false;
         }
 
         private void BtnWissen_Click(object sender, RoutedEventArgs e)

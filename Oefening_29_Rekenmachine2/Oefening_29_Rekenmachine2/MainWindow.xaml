@@ -6,6 +6,18 @@
         xmlns:local="clr-namespace:Oefening_29_Rekenmachine2"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="600">
+    <DockPanel>
+        <Menu DockPanel.Dock="Top">
+            <MenuItem Header="Bestand">
+                <MenuItem Header="Afsluiten" />
+            </MenuItem>
+            <MenuItem Header="Bewerking">
+                <MenuItem Name="MnItOptellen" Header="Optellen" IsCheckable="True" Click="BtnPlus_Click"/>
+                <MenuItem Name="MnItAftrekken" Header="Aftrekken" IsCheckable="True" Click="BtnMin_Click"/>
+                <MenuItem Name="MnItVermenigvuldigen" Header="Vermenigvuldigen" IsCheckable="True" Click="BtnMaal_Click"/>
+                <MenuItem Name="MnItDelen" Header="Delen" IsCheckable="True" Click="BtnDeel_Click"/>
+            </MenuItem>
+        </Menu>
     <Grid Background="Gray">
         <Grid.RowDefinitions>
             <RowDefinition />
@@ -40,4 +52,5 @@
         <Button Name="BtnDeel" Grid.Row="2" Grid.Column="5" Content=":" Margin="20" Click="BtnDeel_Click"/>
         <Button Name="BtnWissen" Grid.Row="4" Grid.Column="4" Grid.ColumnSpan="2" Content="Wissen" Margin="20" Click="BtnWissen_Click"/>
     </Grid>
+    </DockPanel>
 </Window>
