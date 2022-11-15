@@ -54,6 +54,13 @@ namespace Oefening_29_Rekenmachine2
                     // break;
             }
         }
+
+        private void VinkjesUit() {
+            MnItOptellen.IsChecked = false;
+            MnItAftrekken.IsChecked = false;
+            MnItDelen.IsChecked = false;
+            MnItVermenigvuldigen.IsChecked = false;
+        }
  
 
         private void BtnPlus_Click(object sender, RoutedEventArgs e)
@@ -61,19 +68,15 @@ namespace Oefening_29_Rekenmachine2
             HaalGetallen(TxtEersteGetal.Text, TxtTweedeGetal.Text);
             TxtResultaat.Text = Convert.ToString(Berekening('+'));
 
+            VinkjesUit();
             MnItOptellen.IsChecked = true;
-            MnItAftrekken.IsChecked = false;
-            MnItDelen.IsChecked = false;
-            MnItVermenigvuldigen.IsChecked = false;
         }
         private void BtnMaal_Click(object sender, RoutedEventArgs e)
         {
             HaalGetallen(TxtEersteGetal.Text, TxtTweedeGetal.Text);
             TxtResultaat.Text = Convert.ToString(Berekening('*'));
 
-            MnItOptellen.IsChecked = false;
-            MnItAftrekken.IsChecked = false;
-            MnItDelen.IsChecked = false;
+            VinkjesUit();
             MnItVermenigvuldigen.IsChecked = true;
         }
         private void BtnMin_Click(object sender, RoutedEventArgs e)
@@ -81,20 +84,16 @@ namespace Oefening_29_Rekenmachine2
             HaalGetallen(TxtEersteGetal.Text, TxtTweedeGetal.Text);
             TxtResultaat.Text = Convert.ToString(Berekening('-'));
 
-            MnItOptellen.IsChecked = false;
+            VinkjesUit();
             MnItAftrekken.IsChecked = true;
-            MnItDelen.IsChecked = false;
-            MnItVermenigvuldigen.IsChecked = false;
         }
         private void BtnDeel_Click(object sender, RoutedEventArgs e)
         {
             HaalGetallen(TxtEersteGetal.Text, TxtTweedeGetal.Text);
             TxtResultaat.Text = Convert.ToString(Berekening(':'));
 
-            MnItOptellen.IsChecked = false;
-            MnItAftrekken.IsChecked = false;
+            VinkjesUit();
             MnItDelen.IsChecked = true;
-            MnItVermenigvuldigen.IsChecked = false;
         }
 
         private void BtnWissen_Click(object sender, RoutedEventArgs e)
