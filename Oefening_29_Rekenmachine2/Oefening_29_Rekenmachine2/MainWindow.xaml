@@ -1,0 +1,43 @@
+﻿<Window x:Class="Oefening_29_Rekenmachine2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Oefening_29_Rekenmachine2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="600">
+    <Grid Background="Gray">
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.5*"/>
+            <ColumnDefinition />
+            <ColumnDefinition  Width="2*"/>
+            <ColumnDefinition  Width="0.5*"/>
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition  Width="0.5*"/>
+        </Grid.ColumnDefinitions>
+
+        <TextBlock Grid.Row="1" Grid.Column="1" Text="Getal 1" VerticalAlignment="Center" HorizontalAlignment="Right" Margin="20"/>
+        <TextBlock Grid.Row="2" Grid.Column="1" Text="Getal 2" VerticalAlignment="Center" HorizontalAlignment="Right" Margin="20"/>
+        <TextBlock Grid.Row="4" Grid.Column="1" Text="Resultaat" VerticalAlignment="Center" HorizontalAlignment="Right" Margin="20"/>
+
+        <TextBox Name="TxtEersteGetal" Grid.Row="1" Grid.Column="2" Margin="20"/>
+        <TextBox Name="TxtTweedeGetal" Grid.Row="2" Grid.Column="2" Margin="20"/>
+        <TextBox Name="TxtResultaat" Grid.Row="4" Grid.Column="2" Margin="20" IsReadOnly="True" Background="LightGray"/>
+
+        <Button Name="BtnPlus" Grid.Row="1" Grid.Column="4" Content="+" Margin="20" Click="BtnPlus_Click"/>
+        <Button Name="BtnMin" Grid.Row="2" Grid.Column="4" Content="-" Margin="20" Click="BtnMin_Click"/>
+        <Button Name="BtnMaal" Grid.Row="1" Grid.Column="5" Content="x" Margin="20" Click="BtnMaal_Click"/>
+        <Button Name="BtnDeel" Grid.Row="2" Grid.Column="5" Content=":" Margin="20" Click="BtnDeel_Click"/>
+        <Button Name="BtnWissen" Grid.Row="4" Grid.Column="4" Grid.ColumnSpan="2" Content="Wissen" Margin="20" Click="BtnWissen_Click"/>
+    </Grid>
+</Window>
