@@ -1,0 +1,22 @@
+﻿<Window x:Class="Oefening_22_Dobbelsteen.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Oefening_22_Dobbelsteen"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Background="Maroon">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+
+        <TextBox x:Name="TxtOutput" Margin="100 100 50 100" VerticalScrollBarVisibility="Visible"></TextBox>
+        <StackPanel VerticalAlignment="Center" Grid.Column="1" Margin="100 0">
+            <Button Margin="20" Name="BtnStart" Click="BtnStart_Click">Start</Button>
+            <Button Margin="20" Name="BtnOpnieuw" Click="BtnOpnieuw_Click">Opnieuw</Button>
+            <Button Margin="20" Name="BtnAfsluiten" Click="BtnAfsluiten_Click">Afsluiten</Button>
+        </StackPanel>
+    </Grid>
+</Window>
