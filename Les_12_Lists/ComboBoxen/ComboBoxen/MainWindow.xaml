@@ -1,0 +1,16 @@
+﻿<Window x:Class="ComboBoxen.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ComboBoxen"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel Width="300" >
+        <ComboBox Name="CmbxVakken" Margin="50" Height="25" SelectionChanged="CmbxVakken_SelectionChanged" >
+            <ComboBoxItem Content="Cisco" />
+        </ComboBox>
+        <TextBlock Name="LblVak" TextAlignment="Center" Margin="10"/>
+        <Button Name="BtnReset" Content="Reset" Click="BtnReset_Click"/>
+    </StackPanel>
+</Window>
