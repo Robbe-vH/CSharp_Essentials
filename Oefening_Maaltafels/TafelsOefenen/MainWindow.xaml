@@ -1,0 +1,74 @@
+﻿<Window x:Class="TafelsOefenen.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TafelsOefenen"
+        mc:Ignorable="d"
+        Title="Tafels" Height="450" Width="800">
+    <Grid Background="#ffefeb">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="6*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="2*"/>
+        </Grid.RowDefinitions>
+        <!--
+        Extra uitdaging: Wanneer de speler geen enkele fout heeft gemaakt, dan toon je deze afbeelding
+        
+        <Border 
+            Name="ImgPerfect" Visibility="Hidden"
+            BorderBrush="Black" BorderThickness="2" Margin="5" VerticalAlignment="Center">
+            <Image Source="/images/perfect.png" MouseDown="ImgPerfect_MouseDown" />
+        </Border>-->
+
+        <Button Name="BtnMoeilijk" Grid.Column="0" Margin="20" Click="BtnMoeilijk_Click">
+            Moeilijk
+        </Button>
+
+        <Button Name="BtnFoutenOefenen" Grid.Row="1" Grid.Column="0" Margin="20" Click="BtnFoutenOefenen_Click"
+                IsEnabled="False">
+            <TextBlock HorizontalAlignment="Center">
+                Fouten
+                <LineBreak/>
+                Oefenen
+            </TextBlock>
+        </Button>
+
+        <Viewbox Margin="20" Grid.Column="1" Grid.RowSpan="2">
+            <TextBlock >Tafels Met Tom</TextBlock>
+        </Viewbox>
+        <Image Source="images/Tom.png" Grid.Column="2" Grid.RowSpan="2"></Image>
+        <Viewbox Grid.Row="2" Grid.Column="1" Margin="25">
+            <TextBlock Name="TxtTafel">0 x 0 = </TextBlock>
+        </Viewbox>
+        <Viewbox Grid.Row="3" Grid.Column="1" Margin="25">
+            <StackPanel Orientation="Vertical">
+                <TextBox Name="TxtAntwoord" HorizontalContentAlignment="Center" Width="50" 
+                         TextChanged="TextBox_TextChanged"
+                         KeyDown="TxtAntwoord_KeyDown">0</TextBox>
+            </StackPanel>
+        </Viewbox>
+
+        <Viewbox Grid.Row="2" Margin="25">
+            <TextBlock Name="TxtAantalJuist" Foreground="LimeGreen">0</TextBlock>
+        </Viewbox>
+
+        <Viewbox Grid.Row="3" Margin="25">
+            <TextBlock Name="TxtAantalFout" Foreground="Red">0</TextBlock>
+        </Viewbox>
+        <Viewbox Grid.Row="3" Grid.Column="2" Margin="25">
+            <TextBlock Name="TxtVraagNummer">0</TextBlock>
+        </Viewbox>
+        
+        <Button Grid.Row="2" Grid.Column="2" Margin="20" Click="BtnVolgende_Click">
+            <Image Margin="5" Source="/images/Next.png" />
+        </Button>
+        
+    </Grid>
+</Window>
